@@ -26,13 +26,13 @@
 
 This repo is a living knowledge base split into five focused categories. Each folder is a standalone, deeply detailed reference — click in and go deep.
 
-| 📁 Folder                                 | 📝 Description                                                                                                  |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [`linux-commands/`](linux-commands)     | 🐧 Every essential Linux command — navigation, permissions, networking, process mgmt, priv-esc enum, one-liners |
-| [`windows-commands/`](windows-commands) | 🪟 CMD, PowerShell, Registry, Event Logs, Active Directory enumeration, priv-esc checks                         |
-| [`red-teaming/`](red-teaming)           | 🔴 Full offensive playbook — recon, exploitation, AD attacks, C2, lateral movement, persistence                 |
-| [`blue-teaming/`](blue-teaming)         | 🔵 Defensive playbook — SIEM, threat hunting, IR, forensics, detection engineering                              |
-| [`ctf-platforms/`](ctf-platforms)       | 🏁 Best platforms to practice on, category toolkits, and competition strategy                                   |
+                             | 📝 Description                                                                                                  
+ | --------------------------------------------------------------------------------------------------------------- |
+| 🐧 Every essential Linux command — navigation, permissions, networking, process mgmt, priv-esc enum, one-liners |
+| 🪟 CMD, PowerShell, Registry, Event Logs, Active Directory enumeration, priv-esc checks                         |
+| 🔴 Full offensive playbook — recon, exploitation, AD attacks, C2, lateral movement, persistence                 |
+| 🔵 Defensive playbook — SIEM, threat hunting, IR, forensics, detection engineering                              |      
+| 🏁 Best platforms to practice on, category toolkits, and competition strategy                                   |
 
 ---
 
@@ -41,8 +41,8 @@ This repo is a living knowledge base split into five focused categories. Each fo
 ```text
 cybersec-arsenal/
 ├── README.md
-├── assets/
-│   └── banner.png              
+├── banner.png
+│                 
 ├── linux-commands/
 │   └── README.md
 ├── windows-commands/
